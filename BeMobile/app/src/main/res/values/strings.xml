@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeMobile</string>
+    <string name="transactions">Transactions</string>
+    <string name="zero_transactions">0 transactions</string>
+    <string name="refresh_transactions">Refresh transactions</string>
+    <string name="loading_total">Loading Total (retrieving rates)... </string>
+    <string name="sku">SKU:</string>
+    <string name="amount">Amount:</string>
+    <string name="currency">Currency:</string>
+</resources>
